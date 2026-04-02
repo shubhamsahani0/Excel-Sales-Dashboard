@@ -25,7 +25,14 @@ This project is an interactive Sales Dashboard built using Microsoft Excel. It h
 
 
 ## 🔹 Project File
-<a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Excel%20Project%20with%20Dashboard.xlsx"> Dataset
+- <a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Excel%20Project%20with%20Dashboard.xlsx"> Dataset
 
+## 🔹 Key Performance Indicators (KPIs)
+- Total Sales: Overall sales performance
+- Total Amount: Total revenue generated
+
+- <a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Dashboard.png">
+
+  
 ## 🔹 Author
 Shubham Sahani
