@@ -31,8 +31,9 @@ This project is an interactive Sales Dashboard built using Microsoft Excel. It h
 - Total Sales: Overall sales performance
 - Total Amount: Total revenue generated
 
-- <a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Dashboard.png">
-
+## 🔹 Dashboard
+- <a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Dashboard.png"> Dashboard
+<img width="1779" height="743" alt="Dashboard" src="https://github.com/user-attachments/assets/6c0cec43-5065-4b2b-83ca-234c2d0b4526" />
   
 ## 🔹 Author
 Shubham Sahani
