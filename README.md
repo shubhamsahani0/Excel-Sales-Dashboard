@@ -18,6 +18,14 @@ This project is an interactive Sales Dashboard built using Microsoft Excel. It h
 - Pivot Charts
 - Slicers
 
+## 🔹 Key Insights
+- East region generated the highest sales
+- Printer is the top-selling product
+- Siddhu is the top-performing salesman
+
+
+## 🔹 Project File
+<a href = "https://github.com/shubhamsahani0/Excel-Sales-Dashboard/blob/main/Excel%20Project%20with%20Dashboard.xlsx"> Dataset
+
 ## 🔹 Author
-Shubham Sahani# Excel-Sales-Dashboard
-Interactive Sales Dashboard built using Microsoft Excel.
+Shubham Sahani
